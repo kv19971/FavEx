@@ -1,0 +1,14 @@
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\Background.png
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\com.mobileservices.ZUMOAPPNAME.dll
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\com.mobileservices.ZUMOAPPNAME.pdb
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\App.g.cs
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\com.mobileservices.ZUMOAPPNAME.g.resources
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\com.mobileservices.ZUMOAPPNAME.dll
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\com.mobileservices.ZUMOAPPNAME.pdb
+D:\GitHub\azure-mobile-services\quickstart\phonegap\ZUMOAPPNAME\platforms\wp8\obj\Debug\XapCacheFile.xml

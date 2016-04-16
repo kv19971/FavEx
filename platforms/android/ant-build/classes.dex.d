@@ -1,0 +1,23 @@
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes.dex : \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/BuildConfig.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/R$attr.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/R$drawable.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/R$string.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/R$xml.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/R.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/com/mobileservices/ZUMOAPPNAME/ZUMOAPPNAME.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/phillipvannortwick/GitHub/azure-mobile-services/quickstart/phonegap/ZUMOAPPNAME/platforms/android/ant-build/dexedLibs/classes-50ccfbaded662fa69dc22f4d6457704f.jar \
